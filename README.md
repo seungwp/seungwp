@@ -22,8 +22,7 @@
 
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">  
 
@@ -34,9 +33,6 @@
 <p>
   <img src="https://img.shields.io/badge/AUTOSAR-2C3E50?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjQiIHJ4PSIxIi8+PHJlY3QgeD0iMyIgeT0iMTAiIHdpZHRoPSIxOCIgaGVpZ2h0PSI0IiByeD0iMSIvPjxyZWN0IHg9IjMiIHk9IjE2IiB3aWR0aD0iMTgiIGhlaWdodD0iNCIgcng9IjEiLz48L2c+PC9zdmc+">
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/CAN-005571?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMiIgeT0iMTEiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyIi8+PHJlY3QgeD0iNiIgeT0iNSIgd2lkdGg9IjIiIGhlaWdodD0iNiIvPjxyZWN0IHg9IjQiIHk9IjIiIHdpZHRoPSI2IiBoZWlnaHQ9IjQiIHJ4PSIxIi8+PHJlY3QgeD0iMTYiIHk9IjEzIiB3aWR0aD0iMiIgaGVpZ2h0PSI2Ii8+PHJlY3QgeD0iMTQiIHk9IjE4IiB3aWR0aD0iNiIgaGVpZ2h0PSI0IiByeD0iMSIvPjwvZz48L3N2Zz4=">
-  <img src="https://img.shields.io/badge/LIN-4A6572?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMiIgeT0iMTEiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyIi8+PGNpcmNsZSBjeD0iNiIgY3k9IjEyIiByPSIzIi8+PGNpcmNsZSBjeD0iMTQiIGN5PSIxMiIgcj0iMiIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMTIiIHI9IjIiLz48L2c+PC9zdmc+">
-  <img src="https://img.shields.io/badge/Automotive%20Ethernet-2E7D32?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIiLz48cmVjdCB4PSI0IiB5PSI2IiB3aWR0aD0iMiIgaGVpZ2h0PSI1Ii8+PHJlY3QgeD0iMTEiIHk9IjYiIHdpZHRoPSIyIiBoZWlnaHQ9IjUiLz48cmVjdCB4PSIxOCIgeT0iNiIgd2lkdGg9IjIiIGhlaWdodD0iNSIvPjxyZWN0IHg9IjIiIHk9IjExIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIvPjxyZWN0IHg9IjkiIHk9IjExIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIvPjxyZWN0IHg9IjE2IiB5PSIxMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiLz48L2c+PC9zdmc+">
   <img src="https://img.shields.io/badge/Vector%20CANoe-E30613?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjI4OCA2MiA2NSA3NCI%2BPHBvbHlnb24gZmlsbD0iI2ZmZiIgcG9pbnRzPSIyOTIuMjg4LDExNS4yNSAyOTIuMjg4LDEzMS43MTUgMzQ5LjMyMiw5OC43ODYgMjkyLjI4OCw2NS44NTcgMjkyLjI4OCw4Mi4zMjEgMzIwLjgwNSw5OC43ODYiLz48L3N2Zz4=">
   <img src="https://img.shields.io/badge/IPG%20CarMaker-333F48?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQgMTNsMi01Yy4zLS44IDEtMSAxLjgtMWg4LjRjLjggMCAxLjUuMiAxLjggMWwyIDVjLjYuMiAyIC41IDIgMnYzaC0yLjJhMi44IDIuOCAwIDAgMS01LjYgMEg5LjhhMi44IDIuOCAwIDAgMS01LjYgMEgydi0zYzAtMS41IDEuNC0xLjggMi0yem0zLjQtNGwtMS4zIDMuNWgxMS44TDE2LjYgOWMtLjEtLjMtLjMtLjUtLjYtLjVIOGMtLjMgMC0uNS4yLS42LjV6TTcgMTguNWExLjMgMS4zIDAgMSAwIDAtMi42IDEuMyAxLjMgMCAwIDAgMCAyLjZ6bTEwIDBhMS4zIDEuMyAwIDEgMCAwLTIuNiAxLjMgMS4zIDAgMCAwIDAgMi42eiIvPjwvc3ZnPg==">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
